@@ -2,6 +2,7 @@
 
 
 ## Struktura projektu
+```
 fastapi-docker-demo/
 ├── app/
 │   ├── main.py
@@ -10,3 +11,4 @@ fastapi-docker-demo/
 ├── Dockerfile
 ├── docker-compose.yml
 ├── .dockerignore
+```
